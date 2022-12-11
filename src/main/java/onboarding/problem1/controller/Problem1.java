@@ -1,4 +1,4 @@
-package onboarding.problem1;
+package onboarding.problem1.controller;
 
 import java.util.List;
 import onboarding.problem1.model.Player;
